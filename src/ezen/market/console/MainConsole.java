@@ -10,6 +10,7 @@ public class MainConsole extends Thread{
 		while (true) {
 			System.out.println("> ");
 			sc.nextLine();
+			
 		}
 	}
 }
