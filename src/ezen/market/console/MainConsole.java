@@ -12,4 +12,5 @@ public class MainConsole extends Thread{
 			sc.nextLine();
 		}
 	}
+	
 }
